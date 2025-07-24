@@ -70,9 +70,49 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas-V/blob/main/Imagens/PROGRAMADOR_SISTEMAS_VESPERTINO_2025.pdf).
 
-# Critérios e Procedimentos de Faltas
-![Aulas](Imagens/HorasAula.png)
+# Critérios de Frequência e Aproveitamento
 
+No curso, o(a) aluno(a) deve atender aos seguintes requisitos para ser considerado(a) **aprovado(a)**:
+
+- **Frequência mínima**: 75% de presença em cada disciplina.
+- **Nota mínima**: média final igual ou superior a 7,0 (sete).
+
+Cada **dia de aula** corresponde a **4 aulas (4 horas-aula)**.
+
+---
+
+## Disciplinas e Carga Horária
+
+| Disciplina               | Carga Horária Total | Dias de Aula | Total de Aulas | Faltas Máximas Permitidas (25%) |
+|--------------------------|---------------------|---------------|----------------|----------------------------------|
+| Lógica de Programação    | 40 horas-aula       | 10 dias       | 40 aulas       | 10 aulas (2 dias e 2 aulas)      |
+| Linguagem de Programação | 80 horas-aula       | 20 dias       | 80 aulas       | 20 aulas (5 dias)                |
+| Banco de Dados           | 40 horas-aula       | 10 dias       | 40 aulas       | 10 aulas (2 dias e 2 aulas)      |
+
+---
+
+## Procedimento de Controle de Faltas
+
+- As faltas são computadas **por aula** (não por dia).
+- Cada dia letivo contém 4 aulas. Portanto, **uma falta em um dia completo equivale a 4 faltas**.
+- O sistema de controle de presença é feito diariamente e acumulado ao longo da disciplina.
+- Ultrapassando o limite de 25% de faltas (por disciplina), o(a) aluno(a) será **reprovado(a) por frequência**, mesmo que tenha atingido a média exigida.
+
+---
+
+## Exemplo de Cálculo
+
+Um(a) aluno(a) com 3 dias de ausência completos na disciplina de **Lógica de Programação**:
+
+- 3 dias × 4 aulas = **12 faltas**
+- Lógica de Programação tem 40 aulas → 25% = **10 faltas permitidas**
+- **Resultado**: reprovado(a) por frequência, mesmo que tenha média igual ou superior a 7.0
+
+---
+
+> ⚠️ **Atenção**: O controle de presença é responsabilidade tanto do aluno quanto do instrutor. Recomenda-se justificar ausências sempre que possível.
+
+<!--![Aulas](Imagens/HorasAula.png)-->
 	
 # Lista de Presença
 
